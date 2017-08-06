@@ -1,0 +1,28 @@
+html,body{
+  margin:0;
+  font: normal 16px Arial, Helvetica, sand-serif;
+  color:#333;
+}
+
+#particlesK{
+  background:firebrick;
+  width: 100%;
+    height: 100%;
+     background-attachment: fixed;
+}
+
+#login{
+  background:#fff;
+  opacity:0.8;
+  padding:20px 35px 20px 35px;
+  border:#ccc 1px solid;
+  position:absolute;
+  top:100px;
+  left:550px;
+}
+
+#login input[type="text"], #login input[type="password"]{
+  padding:7px;
+  margin-bottom:10px;
+  border:1px #ccc solid;
+}
